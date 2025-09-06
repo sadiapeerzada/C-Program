@@ -1,4 +1,4 @@
-# **C-Program:**
+# **C-Program**
 
 This repository showcases a curated collection of lab assignments and practice programs from my B.Sc. Computer Science coursework in C. It emphasizes the development of core programming skills, structured problem-solving, and a solid foundation in fundamental C programming concepts.
 
