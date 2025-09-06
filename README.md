@@ -58,9 +58,7 @@ Each topic is organized into dedicated folders, making it easy to browse, learn,
 
 🚀 **How to Use:**
 
-1.Clone the repository:
-
-[C-Programming](https://github.com/sadiapeerzada/C-Program.git)
+1.Clone the repository: [C-Programming](https://github.com/sadiapeerzada/C-Program.git)
 
 2.Navigate to the desired folder (e.g., Arrays, Stacks, Sorting).
 
