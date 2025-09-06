@@ -67,9 +67,3 @@ git clone https://github.com/sadiapeerzada/C-Program.git
 📌 **Note:**
 
 This repository is primarily for learning and practice purposes. Contributions and improvements are welcome to make it more extensive and helpful for others.
-
-
-
-Can be compiled using GCC or any standard C compiler
-
-Code is written with clarity and readability in mind, making it beginner-friendl
